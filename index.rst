@@ -11,7 +11,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-
+* test markdown
+   * list1
+   * list2
+* test test
 
 Indices and tables
 ==================
