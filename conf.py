@@ -277,7 +277,9 @@ man_pages = [
 texinfo_documents = [
     (master_doc, 'DocTestAAA', 'DocTestAAA Documentation',
      author, 'DocTestAAA', 'One line description of project.',
-     'Miscellaneous'),
+     'Miscellaneous'), ('AA', 'AA', 'AA Documentation',
+     author, 'AA', 'One line description of project.',
+     'Miscellaneous')
 ]
 
 # Documents to append as an appendix to all manuals.
