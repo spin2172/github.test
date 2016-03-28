@@ -1,7 +1,7 @@
 ﻿HSP test test
 ======================================
 
-.. automodule:: test/testtest/HSP_testtest
+.. automodule:: HSP_testtest
   :members:
   :undoc-members:
   :show-inheritance:
