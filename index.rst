@@ -19,6 +19,7 @@ HSP SDK를 처음 접하신다면 HSP SDK Quick Guide로 시작하세요!
    
    welcome/HSP_function
    test/HSP_test
+   test/testtest/HSP_testtest
    
 * test markdown
    * list1
