@@ -17,9 +17,6 @@ HSP SDK를 처음 접하신다면 HSP SDK Quick Guide로 시작하세요!
 .. toctree::
    :maxdepth: 2
    
-   welcome/HSP_funtion
-   test/HSP_test
-
 * test markdown
    * list1
    * list2
